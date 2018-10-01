@@ -7,7 +7,7 @@ import os
 import time
 
 # Making use of the NYTimes API, you can change the web crawler to your needs here
-api = articleAPI('c541b33c45a44c859360c2483c5da811')
+api = articleAPI('Use your own API Key')
 page_number = 1
 files = 0
 articleFileNumber = 38
